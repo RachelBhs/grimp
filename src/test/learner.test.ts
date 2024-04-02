@@ -1,4 +1,4 @@
-import { validateData } from "../services/learner.service";
+import { validateData } from "../services/learner";
 
 describe("LearnerService", () => {
   describe("validateData", () => {

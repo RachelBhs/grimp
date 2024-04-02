@@ -1,5 +1,5 @@
-import { readCSV } from "../utils/csv.utils";
-import { validateData } from "./learner.service";
+import { readCSV } from "../utils/csv";
+import { validateData } from "./learner";
 import { LearnerType } from "../types/learner.types";
 
 // Manual column mapping function

@@ -1,3 +1,3 @@
-import { CsvController } from "./controllers/csv.controller";
+import { CsvController } from "./controllers/csv";
 
 CsvController();

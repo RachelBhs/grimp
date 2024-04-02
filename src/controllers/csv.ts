@@ -1,4 +1,4 @@
-import { previewImport } from "../services/csv.service";
+import { previewImport } from "../services/csv";
 import { LearnerType } from "../types/learner.types";
 
 // Exemple d'utilisation

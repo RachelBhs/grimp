@@ -1,5 +1,5 @@
 import { LearnerType } from "../types/learner.types";
-import { isValidEmail, isValidPhone } from "../validators/learners.validator";
+import { isValidEmail, isValidPhone } from "../validators/learners";
 
 export const validateData = (learners: LearnerType[]) => {
   const validData: LearnerType[] = [];
